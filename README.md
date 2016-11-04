@@ -13,7 +13,8 @@ $ client = MongoClient('localhost', 27017)
 ### How to use
 
 git clone https://github.com/aovtsinn/ArtMongo.git
-$ python artmongo.py
+
+python artmongo.py
 
 
 Created by Artur CSE21 for course Database processing (I706 EIK/EITC)
