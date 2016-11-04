@@ -6,15 +6,24 @@ Adding the python scrypt with pymongo with will insert needed data into the mong
 
 Current script will create to the localhost mongo database, if needed elsewhere please specify the ip address (instead of localhost) and port (instead of 27017) on line 4
 
-
+```
 $ client = MongoClient('localhost', 27017)
-
+```
 
 ### How to use
 
-git clone https://github.com/aovtsinn/ArtMongo.git
+```
+$ git clone https://github.com/aovtsinn/ArtMongo.git
 
-python artmongo.py
+$ python artmongo.py
+```
 
+```
+$ Created by Artur CSE21 for course Database processing (I706 EIK/EITC)
+```
 
-Created by Artur CSE21 for course Database processing (I706 EIK/EITC)
+### Pictures
+
+![Screenshot 1](http://database.arturich.eu/files/Screenshot1.png)
+![Screenshot 2](http://database.arturich.eu/files/Screenshot2.png)
+![Screenshot 3](http://database.arturich.eu/files/Screenshot3.png)
